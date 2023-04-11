@@ -125,7 +125,10 @@ footer {
     main {
         flex-direction: column;
     }
-    
-
-
+    #portrait {
+        margin: auto;
+    }
+    #sidenav {
+        margin: auto;
+    }
 }
